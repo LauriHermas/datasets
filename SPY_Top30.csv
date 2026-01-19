@@ -1,0 +1,451 @@
+Year,Ticker,Weight,1Y_P,1Y_F,Industry,Sector
+2010,XOM,3.04371,-7.85,22.44,Oil & Gas Integrated,Energy
+2010,AAPL,2.50855,55.04,37.65,Consumer Electronics,Technology
+2010,MSFT,1.80594,-2.93,6.53,Software - Infrastructure,Technology
+2010,GE,1.68103,2.3,0.82,Aerospace & Defense,Industrials
+2010,JNJ,1.65278,5.87,6.81,Drug Manufacturers - General,Healthcare
+2010,PG,1.64616,7.21,9.61,Household & Personal Products,Consumer Defensive
+2010,IBM,1.63597,15.44,35.89,Information Technology Services,Technology
+2010,T,1.63451,15.65,8.71,Telecom Services,Communication Services
+2010,CVX,1.57456,19.74,20.21,Oil & Gas Integrated,Energy
+2010,JPM,1.46037,-11.92,-16.36,Banks - Diversified,Financial Services
+2010,BRK-B,1.38603,24.04,-12.06,Insurance - Diversified,Financial Services
+2010,PFE,1.33523,9.48,9.15,Drug Manufacturers - General,Healthcare
+2010,KO,1.30573,12.89,21.36,Beverages - Non-Alcoholic,Consumer Defensive
+2010,WFC,1.2727,-10.53,0.9,Banks - Diversified,Financial Services
+2010,BAC,1.27214,-22.31,-51.35,Banks - Diversified,Financial Services
+2010,GOOGL,1.26601,6.42,0.33,Internet Content & Information,Communication Services
+2010,CSCO,1.20969,-7.09,-27.1,Communication Equipment,Technology
+2010,MRK,1.09557,22.4,-7.19,Drug Manufacturers - General,Healthcare
+2010,INTC,1.03482,1.33,19.65,Semiconductors,Technology
+2010,WMT,1.03427,11.12,-0.38,Discount Stores,Consumer Defensive
+2010,PEP,1.0222,17.18,-2.91,Beverages - Non-Alcoholic,Consumer Defensive
+2010,ORCL,1.00501,31.48,11.2,Software - Infrastructure,Technology
+2010,PM,0.99307,21.1,19.19,Tobacco,Consumer Defensive
+2010,HPQ,0.92209,-9.29,-42.76,Computer Hardware,Technology
+2010,C,0.89808,-19.01,-31.17,Banks - Diversified,Financial Services
+2010,VZ,0.89099,22.59,20.25,Telecom Services,Communication Services
+2010,COP,0.82417,32.25,16.17,Oil & Gas E&P,Energy
+2010,SLB,0.81394,4.66,0.72,Oil & Gas Equipment & Services,Energy
+2010,ABT,0.77991,9.66,2.89,Medical Devices,Healthcare
+2010,MCD,0.767,34.81,22.79,Restaurants,Consumer Cyclical
+2011,AAPL,3.43107,37.65,75.7,Consumer Electronics,Technology
+2011,XOM,3.42899,22.44,29.07,Oil & Gas Integrated,Energy
+2011,IBM,2.02958,35.89,20.59,Information Technology Services,Technology
+2011,MSFT,1.80195,6.53,22.86,Software - Infrastructure,Technology
+2011,CVX,1.80054,20.21,30.04,Oil & Gas Integrated,Energy
+2011,JNJ,1.69657,6.81,12.25,Drug Manufacturers - General,Healthcare
+2011,PG,1.68543,9.61,13.48,Household & Personal Products,Consumer Defensive
+2011,T,1.64091,8.71,42.44,Telecom Services,Communication Services
+2011,GE,1.56983,0.82,54.89,Aerospace & Defense,Industrials
+2011,KO,1.5061,21.36,15.49,Beverages - Non-Alcoholic,Consumer Defensive
+2011,PFE,1.33947,9.15,46.2,Drug Manufacturers - General,Healthcare
+2011,GOOGL,1.25888,0.33,46.49,Internet Content & Information,Communication Services
+2011,WFC,1.23743,0.9,46.77,Banks - Diversified,Financial Services
+2011,BRK-B,1.21297,-12.06,24.16,Insurance - Diversified,Financial Services
+2011,JPM,1.13994,-16.36,38.59,Banks - Diversified,Financial Services
+2011,ORCL,1.1025,11.2,10.38,Software - Infrastructure,Technology
+2011,INTC,1.08778,19.65,9.72,Semiconductors,Technology
+2011,PM,1.06399,19.19,49.64,Tobacco,Consumer Defensive
+2011,VZ,1.01228,20.25,30.32,Telecom Services,Communication Services
+2011,MRK,0.97738,-7.19,44.03,Drug Manufacturers - General,Healthcare
+2011,PEP,0.95204,-2.91,17.99,Beverages - Non-Alcoholic,Consumer Defensive
+2011,WMT,0.88639,-0.38,45.8,Discount Stores,Consumer Defensive
+2011,MCD,0.87972,22.79,7.67,Restaurants,Consumer Cyclical
+2011,COP,0.84335,16.17,23.69,Oil & Gas E&P,Energy
+2011,CSCO,0.82792,-27.1,25.18,Communication Equipment,Technology
+2011,QCOM,0.79408,12.82,30.49,Semiconductors,Technology
+2011,SLB,0.78251,0.72,22.92,Oil & Gas Equipment & Services,Energy
+2011,ABT,0.7736,2.89,38.71,Medical Devices,Healthcare
+2011,AMZN,0.76236,41.63,17.62,Internet Retail,Consumer Cyclical
+2011,C,0.72645,-31.17,27.88,Banks - Diversified,Financial Services
+2012,AAPL,4.85563,75.7,-25.04,Consumer Electronics,Technology
+2012,XOM,3.27745,29.07,-2.81,Oil & Gas Integrated,Energy
+2012,GE,1.86166,54.89,8.96,Aerospace & Defense,Industrials
+2012,CVX,1.77565,30.04,8.06,Oil & Gas Integrated,Energy
+2012,MSFT,1.74403,22.86,16.3,Software - Infrastructure,Technology
+2012,IBM,1.73224,20.59,-9.56,Information Technology Services,Technology
+2012,T,1.68892,42.44,-3.96,Telecom Services,Communication Services
+2012,GOOGL,1.55043,46.49,15.05,Internet Content & Information,Communication Services
+2012,PG,1.4829,13.48,14.68,Household & Personal Products,Consumer Defensive
+2012,JNJ,1.47481,12.25,29.51,Drug Manufacturers - General,Healthcare
+2012,PFE,1.44103,46.2,19.33,Drug Manufacturers - General,Healthcare
+2012,WFC,1.31876,46.77,23.29,Banks - Diversified,Financial Services
+2012,BRK-B,1.25473,24.16,29.54,Insurance - Diversified,Financial Services
+2012,JPM,1.19382,38.59,31.09,Banks - Diversified,Financial Services
+2012,PM,1.17726,49.64,-0.68,Tobacco,Consumer Defensive
+2012,KO,1.14032,15.49,2.91,Beverages - Non-Alcoholic,Consumer Defensive
+2012,MRK,1.06631,44.03,9.69,Drug Manufacturers - General,Healthcare
+2012,VZ,1.00779,30.32,7.11,Telecom Services,Communication Services
+2012,WMT,0.96338,45.8,2.86,Discount Stores,Consumer Defensive
+2012,ORCL,0.93131,10.38,7.88,Software - Infrastructure,Technology
+2012,INTC,0.88096,9.72,5.09,Semiconductors,Technology
+2012,PEP,0.8551,17.99,16.85,Beverages - Non-Alcoholic,Consumer Defensive
+2012,ABT,0.83531,38.71,1.93,Medical Devices,Healthcare
+2012,QCOM,0.82643,30.49,10.86,Semiconductors,Technology
+2012,CSCO,0.78376,25.18,26.24,Communication Equipment,Technology
+2012,SLB,0.74523,22.92,24.33,Oil & Gas Equipment & Services,Energy
+2012,C,0.74488,27.88,49.42,Banks - Diversified,Financial Services
+2012,CMCSA,0.74314,74.45,28.21,Telecom Services,Communication Services
+2012,BAC,0.73875,45.12,55.66,Banks - Diversified,Financial Services
+2012,DIS,0.72817,76.25,27.12,Entertainment,Communication Services
+2013,AAPL,2.89693,-25.04,50.31,Consumer Electronics,Technology
+2013,XOM,2.53237,-2.81,12.82,Oil & Gas Integrated,Energy
+2013,MSFT,1.68806,16.3,43.55,Software - Infrastructure,Technology
+2013,GOOGL,1.63766,15.05,34.08,Internet Content & Information,Communication Services
+2013,JNJ,1.63335,29.51,26.36,Drug Manufacturers - General,Healthcare
+2013,GE,1.62691,8.96,10.02,Aerospace & Defense,Industrials
+2013,CVX,1.56954,8.06,2.67,Oil & Gas Integrated,Energy
+2013,PG,1.38417,14.68,15.25,Household & Personal Products,Consumer Defensive
+2013,BRK-B,1.36621,29.54,21.87,Insurance - Diversified,Financial Services
+2013,WFC,1.33518,23.29,28.64,Banks - Diversified,Financial Services
+2013,JPM,1.30096,31.09,19.92,Banks - Diversified,Financial Services
+2013,IBM,1.27507,-9.56,4.74,Information Technology Services,Technology
+2013,PFE,1.27091,19.33,7.17,Drug Manufacturers - General,Healthcare
+2013,T,1.2011,-3.96,11.68,Telecom Services,Communication Services
+2013,BAC,0.99128,55.66,23.87,Banks - Diversified,Financial Services
+2013,C,0.9848,49.42,7.39,Banks - Diversified,Financial Services
+2013,KO,0.96563,2.91,14.89,Beverages - Non-Alcoholic,Consumer Defensive
+2013,PM,0.93715,-0.68,-0.15,Tobacco,Consumer Defensive
+2013,MRK,0.93185,9.69,28.79,Drug Manufacturers - General,Healthcare
+2013,VZ,0.89275,7.11,11.38,Telecom Services,Communication Services
+2013,CSCO,0.83952,26.24,10.59,Communication Equipment,Technology
+2013,PEP,0.82027,16.85,20.55,Beverages - Non-Alcoholic,Consumer Defensive
+2013,WMT,0.80497,2.86,5.47,Discount Stores,Consumer Defensive
+2013,ORCL,0.79105,7.88,17.37,Software - Infrastructure,Technology
+2013,CMCSA,0.7896,28.21,22.05,Telecom Services,Communication Services
+2013,SLB,0.78175,24.33,18.71,Oil & Gas Equipment & Services,Energy
+2013,AMZN,0.77342,25.4,2.94,Internet Retail,Consumer Cyclical
+2013,QCOM,0.77265,10.86,13.41,Semiconductors,Technology
+2013,INTC,0.76344,5.09,57.53,Semiconductors,Technology
+2013,HD,0.72661,27.96,25.11,Home Improvement Retail,Consumer Cyclical
+2014,AAPL,3.44472,50.31,10.1,Consumer Electronics,Technology
+2014,XOM,2.29025,12.82,-19.87,Oil & Gas Integrated,Energy
+2014,MSFT,2.17914,43.55,-3.79,Software - Infrastructure,Technology
+2014,JNJ,1.71644,26.36,-10.2,Drug Manufacturers - General,Healthcare
+2014,GE,1.46667,10.02,-0.59,Aerospace & Defense,Industrials
+2014,BRK-B,1.43768,21.87,-6.75,Insurance - Diversified,Financial Services
+2014,WFC,1.40704,28.64,0.74,Banks - Diversified,Financial Services
+2014,JPM,1.29376,19.92,1.98,Banks - Diversified,Financial Services
+2014,CVX,1.29371,2.67,-33.39,Oil & Gas Integrated,Energy
+2014,PG,1.29362,15.25,-10.98,Household & Personal Products,Consumer Defensive
+2014,VZ,1.18313,11.38,-8.84,Telecom Services,Communication Services
+2014,PFE,1.07061,7.17,8.47,Drug Manufacturers - General,Healthcare
+2014,T,1.04351,11.68,-2.15,Telecom Services,Communication Services
+2014,BAC,1.02456,23.87,-8.86,Banks - Diversified,Financial Services
+2014,IBM,1.00581,4.74,-22.69,Information Technology Services,Technology
+2014,INTC,0.98436,57.53,-13.54,Semiconductors,Technology
+2014,MRK,0.97648,28.79,-15.29,Drug Manufacturers - General,Healthcare
+2014,KO,0.96105,14.89,-4.01,Beverages - Non-Alcoholic,Consumer Defensive
+2014,GOOGL,0.95443,34.08,5.81,Internet Content & Information,Communication Services
+2014,GOOG,0.93641,31.73,3.33,Internet Content & Information,Communication Services
+2014,GILD,0.91893,71.0,-9.13,Drug Manufacturers - General,Healthcare
+2014,C,0.89703,7.39,-5.23,Banks - Diversified,Financial Services
+2014,META,0.87898,57.28,9.65,Internet Content & Information,Communication Services
+2014,DIS,0.80292,39.44,13.75,Entertainment,Communication Services
+2014,PEP,0.80093,20.55,2.81,Beverages - Non-Alcoholic,Consumer Defensive
+2014,CMCSA,0.79475,22.05,3.82,Telecom Services,Communication Services
+2014,SLB,0.75275,18.71,-30.49,Oil & Gas Equipment & Services,Energy
+2014,PM,0.7439,-0.15,-0.92,Tobacco,Consumer Defensive
+2014,CSCO,0.73284,10.59,4.15,Communication Equipment,Technology
+2014,QCOM,0.71556,13.41,-27.96,Semiconductors,Technology
+2015,AAPL,3.71714,10.1,3.88,Consumer Electronics,Technology
+2015,MSFT,2.09183,-3.79,33.24,Software - Infrastructure,Technology
+2015,XOM,1.83277,-19.87,20.38,Oil & Gas Integrated,Energy
+2015,JNJ,1.52679,-10.2,29.23,Drug Manufacturers - General,Healthcare
+2015,GE,1.50531,-0.59,20.75,Aerospace & Defense,Industrials
+2015,BRK-B,1.44525,-6.75,10.12,Insurance - Diversified,Financial Services
+2015,WFC,1.41884,0.74,-10.94,Banks - Diversified,Financial Services
+2015,JPM,1.33416,1.98,10.84,Banks - Diversified,Financial Services
+2015,META,1.20336,9.65,42.48,Internet Content & Information,Communication Services
+2015,T,1.18467,-2.15,33.88,Telecom Services,Communication Services
+2015,AMZN,1.16065,53.85,61.96,Internet Retail,Consumer Cyclical
+2015,PG,1.15354,-10.98,26.83,Household & Personal Products,Consumer Defensive
+2015,PFE,1.14518,8.47,9.89,Drug Manufacturers - General,Healthcare
+2015,GOOGL,1.0943,5.81,25.73,Internet Content & Information,Communication Services
+2015,GOOG,1.06481,3.33,27.38,Internet Content & Information,Communication Services
+2015,VZ,1.0462,-8.84,25.39,Telecom Services,Communication Services
+2015,BAC,0.96402,-8.86,-1.26,Banks - Diversified,Financial Services
+2015,DIS,0.93796,13.75,-8.94,Entertainment,Communication Services
+2015,KO,0.92739,-4.01,8.08,Beverages - Non-Alcoholic,Consumer Defensive
+2015,C,0.88246,-5.23,-7.05,Banks - Diversified,Financial Services
+2015,CVX,0.87745,-33.39,34.39,Oil & Gas Integrated,Energy
+2015,HD,0.87637,25.6,13.03,Home Improvement Retail,Consumer Cyclical
+2015,GILD,0.85082,-9.13,-19.04,Drug Manufacturers - General,Healthcare
+2015,INTC,0.84707,-13.54,27.84,Semiconductors,Technology
+2015,MRK,0.82175,-15.29,29.52,Drug Manufacturers - General,Healthcare
+2015,PEP,0.81874,2.81,17.59,Beverages - Non-Alcoholic,Consumer Defensive
+2015,V,0.80378,29.39,18.46,Credit Services,Financial Services
+2015,CSCO,0.78855,4.15,23.71,Communication Equipment,Technology
+2015,IBM,0.77188,-22.69,13.25,Information Technology Services,Technology
+2015,PM,0.72648,-0.92,28.62,Tobacco,Consumer Defensive
+2016,AAPL,3.25163,3.88,38.73,Consumer Electronics,Technology
+2016,MSFT,2.39661,33.24,32.44,Software - Infrastructure,Technology
+2016,XOM,1.92443,20.38,-2.54,Oil & Gas Integrated,Energy
+2016,AMZN,1.76063,61.96,14.81,Internet Retail,Consumer Cyclical
+2016,JNJ,1.72751,29.23,13.0,Drug Manufacturers - General,Healthcare
+2016,META,1.59179,42.48,33.21,Internet Content & Information,Communication Services
+2016,BRK-B,1.4657,10.12,26.89,Insurance - Diversified,Financial Services
+2016,GE,1.41708,20.75,-15.56,Aerospace & Defense,Industrials
+2016,T,1.32931,33.88,2.86,Telecom Services,Communication Services
+2016,JPM,1.2846,10.84,46.91,Banks - Diversified,Financial Services
+2016,PG,1.27972,26.83,4.57,Household & Personal Products,Consumer Defensive
+2016,GOOGL,1.26664,25.73,21.1,Internet Content & Information,Communication Services
+2016,GOOG,1.22076,27.38,23.39,Internet Content & Information,Communication Services
+2016,VZ,1.12668,25.39,-0.22,Telecom Services,Communication Services
+2016,PFE,1.09231,9.89,9.64,Drug Manufacturers - General,Healthcare
+2016,WFC,1.07392,-10.94,28.25,Banks - Diversified,Financial Services
+2016,CVX,1.03146,34.39,18.78,Oil & Gas Integrated,Energy
+2016,INTC,0.94789,27.84,3.9,Semiconductors,Technology
+2016,MRK,0.91854,29.52,5.65,Drug Manufacturers - General,Healthcare
+2016,KO,0.87612,8.08,9.96,Beverages - Non-Alcoholic,Consumer Defensive
+2016,BAC,0.85605,-1.26,64.39,Banks - Diversified,Financial Services
+2016,CMCSA,0.85271,18.52,17.92,Telecom Services,Communication Services
+2016,HD,0.85094,13.03,30.07,Home Improvement Retail,Consumer Cyclical
+2016,CSCO,0.84835,23.71,9.77,Communication Equipment,Technology
+2016,V,0.83739,18.46,28.2,Credit Services,Financial Services
+2016,PEP,0.8353,17.59,5.36,Beverages - Non-Alcoholic,Consumer Defensive
+2016,PM,0.80197,28.62,18.68,Tobacco,Consumer Defensive
+2016,DIS,0.73835,-8.94,7.76,Entertainment,Communication Services
+2016,IBM,0.73766,13.25,-5.21,Information Technology Services,Technology
+2016,C,0.73757,-7.05,56.1,Banks - Diversified,Financial Services
+2017,AAPL,3.68794,38.73,48.98,Consumer Electronics,Technology
+2017,MSFT,2.65834,32.44,56.05,Software - Infrastructure,Technology
+2017,META,1.87678,33.21,-2.96,Internet Content & Information,Communication Services
+2017,AMZN,1.77622,14.81,108.82,Internet Retail,Consumer Cyclical
+2017,BRK-B,1.63488,26.89,15.48,Insurance - Diversified,Financial Services
+2017,JNJ,1.61675,13.0,8.13,Drug Manufacturers - General,Healthcare
+2017,XOM,1.60984,-2.54,8.37,Oil & Gas Integrated,Energy
+2017,JPM,1.55704,46.91,19.05,Banks - Diversified,Financial Services
+2017,GOOGL,1.34321,21.1,24.77,Internet Content & Information,Communication Services
+2017,GOOG,1.34178,23.39,25.2,Internet Content & Information,Communication Services
+2017,BAC,1.15175,64.39,16.95,Banks - Diversified,Financial Services
+2017,WFC,1.1415,28.25,-2.58,Banks - Diversified,Financial Services
+2017,T,1.11615,2.86,-7.62,Telecom Services,Communication Services
+2017,PG,1.07494,4.57,-6.23,Household & Personal Products,Consumer Defensive
+2017,CVX,1.03176,18.78,8.1,Oil & Gas Integrated,Energy
+2017,PFE,0.98747,9.64,26.72,Drug Manufacturers - General,Healthcare
+2017,GE,0.96992,-15.56,-52.49,Aerospace & Defense,Industrials
+2017,VZ,0.93574,-0.22,13.4,Telecom Services,Communication Services
+2017,C,0.91811,56.1,-0.89,Banks - Diversified,Financial Services
+2017,HD,0.89313,30.07,29.03,Home Improvement Retail,Consumer Cyclical
+2017,V,0.89192,28.2,43.29,Credit Services,Financial Services
+2017,UNH,0.87747,42.09,36.59,Healthcare Plans,Healthcare
+2017,CMCSA,0.83861,17.92,-4.89,Telecom Services,Communication Services
+2017,INTC,0.83113,3.9,24.14,Semiconductors,Technology
+2017,MRK,0.81149,5.65,13.44,Drug Manufacturers - General,Healthcare
+2017,KO,0.8022,9.96,6.7,Beverages - Non-Alcoholic,Consumer Defensive
+2017,PM,0.79912,18.68,-22.78,Tobacco,Consumer Defensive
+2017,CSCO,0.77992,9.77,48.81,Communication Equipment,Technology
+2017,DD,0.74908,37.53,-6.66,Specialty Chemicals,Basic Materials
+2017,PEP,0.73777,5.36,5.75,Beverages - Non-Alcoholic,Consumer Defensive
+2018,AAPL,4.21065,48.98,-2.22,Consumer Electronics,Technology
+2018,MSFT,3.56739,56.05,21.01,Software - Infrastructure,Technology
+2018,AMZN,3.33861,108.82,-13.92,Internet Retail,Consumer Cyclical
+2018,BRK-B,1.69803,15.48,-3.41,Insurance - Diversified,Financial Services
+2018,META,1.61343,-2.96,9.02,Internet Content & Information,Communication Services
+2018,JPM,1.54247,19.05,6.85,Banks - Diversified,Financial Services
+2018,JNJ,1.50782,8.13,-5.4,Drug Manufacturers - General,Healthcare
+2018,GOOG,1.49488,25.2,2.49,Internet Content & Information,Communication Services
+2018,GOOGL,1.46768,24.77,1.44,Internet Content & Information,Communication Services
+2018,XOM,1.46421,8.37,-12.88,Oil & Gas Integrated,Energy
+2018,BAC,1.11301,16.95,1.25,Banks - Diversified,Financial Services
+2018,V,1.08457,43.29,16.15,Credit Services,Financial Services
+2018,PFE,1.05089,26.72,-15.31,Drug Manufacturers - General,Healthcare
+2018,UNH,1.04158,36.59,-18.71,Healthcare Plans,Healthcare
+2018,T,0.99195,-7.62,21.36,Telecom Services,Communication Services
+2018,HD,0.96402,29.03,13.69,Home Improvement Retail,Consumer Cyclical
+2018,CVX,0.95312,8.1,-0.79,Oil & Gas Integrated,Energy
+2018,WFC,0.92662,-2.58,0.8,Banks - Diversified,Financial Services
+2018,CSCO,0.90441,48.81,2.68,Communication Equipment,Technology
+2018,VZ,0.89736,13.4,16.82,Telecom Services,Communication Services
+2018,INTC,0.8869,24.14,12.14,Semiconductors,Technology
+2018,PG,0.84264,-6.23,53.44,Household & Personal Products,Consumer Defensive
+2018,MA,0.82581,57.88,20.93,Credit Services,Financial Services
+2018,BA,0.8081,48.24,2.33,Aerospace & Defense,Industrials
+2018,MRK,0.76737,13.44,19.09,Drug Manufacturers - General,Healthcare
+2018,C,0.7343,-0.89,-0.71,Banks - Diversified,Financial Services
+2018,KO,0.71916,6.7,21.25,Beverages - Non-Alcoholic,Consumer Defensive
+2018,DIS,0.70745,18.99,13.37,Entertainment,Communication Services
+2018,NVDA,0.69502,57.38,-40.39,Semiconductors,Technology
+2018,NFLX,0.66271,111.36,-31.03,Entertainment,Communication Services
+2019,MSFT,4.24134,21.01,50.77,Software - Infrastructure,Technology
+2019,AAPL,3.8016,-2.22,105.78,Consumer Electronics,Technology
+2019,AMZN,2.88212,-13.92,81.17,Internet Retail,Consumer Cyclical
+2019,META,1.71178,9.02,47.01,Internet Content & Information,Communication Services
+2019,BRK-B,1.62981,-3.41,1.16,Insurance - Diversified,Financial Services
+2019,JPM,1.50362,6.85,-16.15,Banks - Diversified,Financial Services
+2019,GOOG,1.47197,2.49,20.54,Internet Content & Information,Communication Services
+2019,GOOGL,1.46152,1.44,20.05,Internet Content & Information,Communication Services
+2019,JNJ,1.36433,-5.4,16.75,Drug Manufacturers - General,Healthcare
+2019,PG,1.24375,53.44,13.17,Household & Personal Products,Consumer Defensive
+2019,XOM,1.19374,-12.88,-48.19,Oil & Gas Integrated,Energy
+2019,V,1.18693,16.15,16.68,Credit Services,Financial Services
+2019,T,1.10479,21.36,-18.83,Telecom Services,Communication Services
+2019,HD,1.01629,13.69,20.16,Home Improvement Retail,Consumer Cyclical
+2019,VZ,0.99752,16.82,2.41,Telecom Services,Communication Services
+2019,BAC,0.97643,1.25,-16.39,Banks - Diversified,Financial Services
+2019,MA,0.96873,20.93,24.48,Credit Services,Financial Services
+2019,DIS,0.938,13.37,-3.2,Entertainment,Communication Services
+2019,INTC,0.91212,12.14,1.63,Semiconductors,Technology
+2019,CVX,0.89943,-0.79,-36.25,Oil & Gas Integrated,Energy
+2019,MRK,0.86119,19.09,0.28,Drug Manufacturers - General,Healthcare
+2019,CSCO,0.83813,2.68,-18.36,Communication Equipment,Technology
+2019,KO,0.83713,21.25,-7.1,Beverages - Non-Alcoholic,Consumer Defensive
+2019,UNH,0.8222,-18.71,42.29,Healthcare Plans,Healthcare
+2019,UNH,0.8222,-18.71,42.29,Healthcare Plans,Healthcare
+2019,CMCSA,0.81696,28.84,4.74,Telecom Services,Communication Services
+2019,BA,0.81267,2.33,-56.49,Aerospace & Defense,Industrials
+2019,WFC,0.80809,0.8,-51.79,Banks - Diversified,Financial Services
+2019,PFE,0.79413,-15.31,4.72,Drug Manufacturers - General,Healthcare
+2019,PEP,0.76564,26.23,2.95,Beverages - Non-Alcoholic,Consumer Defensive
+2020,AAPL,6.68146,105.78,24.12,Consumer Electronics,Technology
+2020,MSFT,5.71213,50.77,36.26,Software - Infrastructure,Technology
+2020,AMZN,4.81099,81.17,4.84,Internet Retail,Consumer Cyclical
+2020,META,2.25976,47.01,29.67,Internet Content & Information,Communication Services
+2020,GOOGL,1.58032,20.05,83.34,Internet Content & Information,Communication Services
+2020,GOOG,1.54832,20.54,83.07,Internet Content & Information,Communication Services
+2020,BRK-B,1.51476,1.16,30.22,Insurance - Diversified,Financial Services
+2020,JNJ,1.40668,16.75,12.99,Drug Manufacturers - General,Healthcare
+2020,PG,1.2418,13.17,4.68,Household & Personal Products,Consumer Defensive
+2020,V,1.20993,16.68,14.02,Credit Services,Financial Services
+2020,NVDA,1.1983,204.55,51.79,Semiconductors,Technology
+2020,HD,1.07282,20.16,24.02,Home Improvement Retail,Consumer Cyclical
+2020,MA,1.07203,24.48,4.94,Credit Services,Financial Services
+2020,UNH,1.06427,42.29,30.28,Healthcare Plans,Healthcare
+2020,JPM,1.0529,-16.15,77.28,Banks - Diversified,Financial Services
+2020,VZ,0.88344,2.41,-4.56,Telecom Services,Communication Services
+2020,ADBE,0.84424,77.13,17.79,Software - Application,Technology
+2020,PYPL,0.82963,87.76,31.45,Credit Services,Financial Services
+2020,CRM,0.82074,66.7,7.63,Software - Application,Technology
+2020,DIS,0.80466,-3.2,39.17,Entertainment,Communication Services
+2020,NFLX,0.79156,84.4,19.8,Entertainment,Communication Services
+2020,INTC,0.78909,1.63,6.01,Semiconductors,Technology
+2020,CMCSA,0.75679,4.74,23.16,Telecom Services,Communication Services
+2020,MRK,0.7534,0.28,-1.84,Drug Manufacturers - General,Healthcare
+2020,PFE,0.73187,4.72,30.1,Drug Manufacturers - General,Healthcare
+2020,T,0.72898,-18.83,5.59,Telecom Services,Communication Services
+2020,WMT,0.69717,17.58,1.94,Discount Stores,Consumer Defensive
+2020,ABT,0.6915,27.79,11.41,Medical Devices,Healthcare
+2020,PEP,0.68871,2.95,13.14,Beverages - Non-Alcoholic,Consumer Defensive
+2020,KO,0.68494,-7.1,10.66,Beverages - Non-Alcoholic,Consumer Defensive
+2021,AAPL,6.08601,24.12,1.26,Consumer Electronics,Technology
+2021,MSFT,5.80261,36.26,-15.05,Software - Infrastructure,Technology
+2021,AMZN,3.91862,4.84,-30.11,Internet Retail,Consumer Cyclical
+2021,META,2.21588,29.67,-59.81,Internet Content & Information,Communication Services
+2021,GOOGL,2.20464,83.34,-27.12,Internet Content & Information,Communication Services
+2021,GOOG,2.05688,83.07,-26.4,Internet Content & Information,Communication Services
+2021,TSLA,1.72346,82.12,3.76,Auto Manufacturers,Consumer Cyclical
+2021,NVDA,1.41394,51.79,-40.96,Semiconductors,Technology
+2021,BRK-B,1.38573,30.22,-1.23,Insurance - Diversified,Financial Services
+2021,JPM,1.33968,77.28,-33.29,Banks - Diversified,Financial Services
+2021,JNJ,1.16443,12.99,4.56,Drug Manufacturers - General,Healthcare
+2021,V,1.02961,14.02,-18.59,Credit Services,Financial Services
+2021,UNH,1.0091,30.28,31.91,Healthcare Plans,Healthcare
+2021,HD,0.95595,24.02,-13.24,Home Improvement Retail,Consumer Cyclical
+2021,PG,0.92946,4.68,-5.74,Household & Personal Products,Consumer Defensive
+2021,BAC,0.86097,82.49,-26.17,Banks - Diversified,Financial Services
+2021,DIS,0.84195,39.17,-42.4,Entertainment,Communication Services
+2021,PYPL,0.83743,31.45,-65.91,Credit Services,Financial Services
+2021,MA,0.82955,4.94,-17.06,Credit Services,Financial Services
+2021,ADBE,0.7512,17.79,-51.67,Software - Application,Technology
+2021,NFLX,0.73986,19.8,-60.73,Entertainment,Communication Services
+2021,CRM,0.7217,7.63,-45.87,Software - Application,Technology
+2021,CMCSA,0.70164,23.16,-44.4,Telecom Services,Communication Services
+2021,XOM,0.68203,87.1,57.58,Oil & Gas Integrated,Energy
+2021,PFE,0.66047,30.1,6.03,Drug Manufacturers - General,Healthcare
+2021,CSCO,0.62825,45.33,-23.32,Communication Equipment,Technology
+2021,TMO,0.61563,31.55,-9.39,Diagnostics & Research,Healthcare
+2021,VZ,0.61244,-4.56,-24.91,Telecom Services,Communication Services
+2021,INTC,0.59203,6.01,-48.86,Semiconductors,Technology
+2021,ABT,0.57359,11.41,-15.47,Medical Devices,Healthcare
+2022,AAPL,6.92802,1.26,24.62,Consumer Electronics,Technology
+2022,MSFT,5.76518,-15.05,36.88,Software - Infrastructure,Technology
+2022,AMZN,3.32427,-30.11,12.5,Internet Retail,Consumer Cyclical
+2022,TSLA,2.34492,3.76,-5.67,Auto Manufacturers,Consumer Cyclical
+2022,GOOGL,1.90368,-27.12,36.81,Internet Content & Information,Communication Services
+2022,GOOG,1.71116,-26.4,37.13,Internet Content & Information,Communication Services
+2022,BRK-B,1.59841,-1.23,31.19,Insurance - Diversified,Financial Services
+2022,UNH,1.56768,31.91,1.3,Healthcare Plans,Healthcare
+2022,JNJ,1.4256,4.56,-1.92,Drug Manufacturers - General,Healthcare
+2022,XOM,1.20777,57.58,39.12,Oil & Gas Integrated,Energy
+2022,META,1.02709,-59.81,121.26,Internet Content & Information,Communication Services
+2022,JPM,1.01717,-33.29,43.13,Banks - Diversified,Financial Services
+2022,NVDA,1.0089,-40.96,258.56,Semiconductors,Technology
+2022,PG,1.00222,-5.74,18.56,Household & Personal Products,Consumer Defensive
+2022,V,0.96408,-18.59,30.52,Credit Services,Financial Services
+2022,HD,0.9413,-13.24,12.47,Home Improvement Retail,Consumer Cyclical
+2022,CVX,0.85876,48.4,21.65,Oil & Gas Integrated,Energy
+2022,LLY,0.84644,44.85,67.91,Drug Manufacturers - General,Healthcare
+2022,PFE,0.81517,6.03,-21.14,Drug Manufacturers - General,Healthcare
+2022,MA,0.80525,-17.06,40.11,Credit Services,Financial Services
+2022,ABBV,0.78762,37.73,15.57,Drug Manufacturers - General,Healthcare
+2022,PEP,0.74691,13.79,6.62,Beverages - Non-Alcoholic,Consumer Defensive
+2022,MRK,0.72413,19.4,22.81,Drug Manufacturers - General,Healthcare
+2022,KO,0.72317,11.08,2.99,Beverages - Non-Alcoholic,Consumer Defensive
+2022,BAC,0.70073,-26.17,-6.71,Banks - Diversified,Financial Services
+2022,COST,0.69439,7.29,20.53,Discount Stores,Consumer Defensive
+2022,TMO,0.65954,-9.39,0.05,Diagnostics & Research,Healthcare
+2022,WMT,0.61363,-3.6,25.2,Discount Stores,Consumer Defensive
+2022,AVGO,0.59509,-4.38,92.03,Semiconductors,Technology
+2022,DIS,0.5708,-42.4,-14.08,Entertainment,Communication Services
+2023,AAPL,7.00515,24.62,31.77,Consumer Electronics,Technology
+2023,MSFT,6.53134,36.88,34.01,Software - Infrastructure,Technology
+2023,AMZN,3.2134,12.5,45.2,Internet Retail,Consumer Cyclical
+2023,NVDA,2.9913,258.56,171.17,Semiconductors,Technology
+2023,GOOGL,2.16155,36.81,22.5,Internet Content & Information,Communication Services
+2023,TSLA,1.92394,-5.67,3.52,Auto Manufacturers,Consumer Cyclical
+2023,META,1.85793,121.26,85.47,Internet Content & Information,Communication Services
+2023,GOOG,1.85289,37.13,22.58,Internet Content & Information,Communication Services
+2023,BRK-B,1.77884,31.19,31.43,Insurance - Diversified,Financial Services
+2023,XOM,1.31066,39.12,3.68,Oil & Gas Integrated,Energy
+2023,UNH,1.30048,1.3,14.8,Healthcare Plans,Healthcare
+2023,LLY,1.19263,67.91,64.17,Drug Manufacturers - General,Healthcare
+2023,JPM,1.17351,43.13,50.1,Banks - Diversified,Financial Services
+2023,JNJ,1.04432,-1.92,7.32,Drug Manufacturers - General,Healthcare
+2023,V,1.02908,30.52,19.92,Credit Services,Financial Services
+2023,PG,0.95741,18.56,22.56,Household & Personal Products,Consumer Defensive
+2023,AVGO,0.95441,92.03,110.01,Semiconductors,Technology
+2023,MA,0.91724,40.11,25.44,Credit Services,Financial Services
+2023,HD,0.84591,12.47,36.71,Home Improvement Retail,Consumer Cyclical
+2023,CVX,0.83306,21.65,-8.85,Oil & Gas Integrated,Energy
+2023,ABBV,0.73259,15.57,36.47,Drug Manufacturers - General,Healthcare
+2023,MRK,0.72741,22.81,13.8,Drug Manufacturers - General,Healthcare
+2023,COST,0.6971,20.53,59.55,Discount Stores,Consumer Defensive
+2023,PEP,0.64947,6.62,3.62,Beverages - Non-Alcoholic,Consumer Defensive
+2023,ADBE,0.64716,85.28,-1.08,Software - Application,Technology
+2023,WMT,0.63556,25.2,51.51,Discount Stores,Consumer Defensive
+2023,CSCO,0.61001,38.8,0.61,Communication Equipment,Technology
+2023,KO,0.60666,2.99,33.4,Beverages - Non-Alcoholic,Consumer Defensive
+2023,CRM,0.54996,40.98,36.4,Software - Application,Technology
+2023,TMO,0.54394,0.05,24.26,Diagnostics & Research,Healthcare
+2024,AAPL,7.27851,31.77,9.71,Consumer Electronics,Technology
+2024,MSFT,6.57148,34.01,20.49,Software - Infrastructure,Technology
+2024,NVDA,6.13794,171.17,49.79,Semiconductors,Technology
+2024,AMZN,3.5761,45.2,19.23,Internet Retail,Consumer Cyclical
+2024,META,2.56958,85.47,30.27,Internet Content & Information,Communication Services
+2024,GOOGL,1.99655,22.5,47.8,Internet Content & Information,Communication Services
+2024,BRK-B,1.7323,31.43,8.47,Insurance - Diversified,Financial Services
+2024,GOOG,1.64998,22.58,46.8,Internet Content & Information,Communication Services
+2024,AVGO,1.64984,110.01,91.95,Semiconductors,Technology
+2024,TSLA,1.49154,3.52,69.4,Auto Manufacturers,Consumer Cyclical
+2024,LLY,1.43598,64.17,-17.37,Drug Manufacturers - General,Healthcare
+2024,JPM,1.23269,50.1,53.08,Banks - Diversified,Financial Services
+2024,UNH,1.10937,14.8,-39.68,Healthcare Plans,Healthcare
+2024,XOM,1.07009,3.68,0.96,Oil & Gas Integrated,Energy
+2024,V,0.94374,19.92,24.59,Credit Services,Financial Services
+2024,PG,0.83779,22.56,-9.12,Household & Personal Products,Consumer Defensive
+2024,MA,0.83714,25.44,15.72,Credit Services,Financial Services
+2024,HD,0.82563,36.71,2.77,Home Improvement Retail,Consumer Cyclical
+2024,COST,0.80742,59.55,3.95,Discount Stores,Consumer Defensive
+2024,JNJ,0.80162,7.32,15.69,Drug Manufacturers - General,Healthcare
+2024,WMT,0.72072,51.51,28.9,Discount Stores,Consumer Defensive
+2024,ABBV,0.71677,36.47,17.05,Drug Manufacturers - General,Healthcare
+2024,NFLX,0.62549,85.98,70.09,Entertainment,Communication Services
+2024,MRK,0.59151,13.8,-28.24,Drug Manufacturers - General,Healthcare
+2024,KO,0.57278,33.4,-5.34,Beverages - Non-Alcoholic,Consumer Defensive
+2024,ORCL,0.5597,60.29,67.68,Software - Infrastructure,Technology
+2024,BAC,0.55046,51.68,35.22,Banks - Diversified,Financial Services
+2024,AMD,0.54571,59.15,-1.66,Semiconductors,Technology
+2024,CRM,0.54502,36.4,-9.91,Software - Application,Technology
+2024,CVX,0.51461,-8.85,10.8,Oil & Gas Integrated,Energy
